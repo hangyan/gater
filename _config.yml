@@ -36,7 +36,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: yiya
   avatar: bio-photo.jpg
   email: you@email.com
   disqus-shortname:
@@ -45,7 +45,7 @@ owner:
   github: #username
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
-  instagram: #username
+  instagram: gengyiya
   flickr: #username
   tumblr: #username
   pinterest: #username
